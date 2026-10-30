@@ -13,6 +13,11 @@
 - 选取节点，将原文、摘要和背景导出为 Markdown，供新的 AI 会话续接。
 - 全量重新整理时先预览，确认后替换旧摘要和结构。
 
+## 展示
+<img width="1836" height="958" alt="image" src="https://github.com/user-attachments/assets/2dbb9684-c6fd-4d95-971d-85d1cc3b827b" />
+
+
+
 ## 本地安装
 
 需要 Node.js 22 或更高版本、npm 和 Chrome。下载或克隆本仓库，进入项目目录后运行：
