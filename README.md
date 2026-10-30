@@ -14,9 +14,10 @@
 - 全量重新整理时先预览，确认后替换旧摘要和结构。
 
 ## 展示
-<img width="918" height="958" alt="image" src="https://github.com/user-attachments/assets/2dbb9684-c6fd-4d95-971d-85d1cc3b827b" />
-<img width="580" height="792" alt="image" src="https://github.com/user-attachments/assets/fa723071-73a8-4aca-939d-550b1697ebf8" />
-<img width="559" height="862" alt="image" src="https://github.com/user-attachments/assets/4de0ea9b-bb74-4f12-9c8f-fb7e6e6ca885" />
+<img width="299" height="487" alt="image" src="https://github.com/user-attachments/assets/f21abd50-296c-44b5-b600-5619b448371c" />
+<img width="296" height="487" alt="image" src="https://github.com/user-attachments/assets/f40e6869-e86e-4dca-9ab5-65b9ed205429" />
+<img width="294" height="487" alt="image" src="https://github.com/user-attachments/assets/ff9950a2-6e86-4147-85c3-10de3cdcd11a" />
+
 
 
 
